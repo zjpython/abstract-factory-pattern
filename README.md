@@ -1,7 +1,8 @@
 # abstract-factory-pattern
 python编程实战：抽象工厂模式   
 用来创建复杂的对象，这种对象由许多😊对象组成，而这些小对象都属于某个特定的系列。
-‘’‘
+      
+```
 +----------------------------+
 |   +--------------------+   |
 |   |%%%%%%%%%%%%%%%%%%%%|   |
@@ -19,4 +20,5 @@ python编程实战：抽象工厂模式
 <rect x="80" y="20" width="440" height="100" fill="yellow" stroke="black"/>
 <text x="140" y="60" text-anchor="left" font-family="sans-serif" font-size="24">Abstract Factory</text>
 </svg>
-’‘’
+```
+     
